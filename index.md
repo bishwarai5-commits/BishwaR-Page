@@ -47,7 +47,12 @@ As of today, AI still lacks the full depth of human empathy, intuition, and cont
 
 ---
 
-> **Note:** The release of Anthropic Mythos, along with its public version, Fable 5, marks a new and unprecedented challenge for cybersecurity. I will try to share my analysis soon.
+<table>
+  <tr>
+    <td><b>Note:</b> The release of Anthropic Mythos, along with its public version, Fable 5, marks a new and unprecedented challenge for cybersecurity. I will try to share my analysis soon.</td>
+  </tr>
+</table>
+
 
 ---
 
