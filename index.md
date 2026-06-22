@@ -51,17 +51,12 @@ As of today, AI still lacks the full depth of human empathy, intuition, and cont
 
 ---
 
-                          <div align="center">
-
-## **References**
-
-</div>
+<div align="center">## **References**</div>
 
 * **Janakiram, M. S. V. (2026, May 17).** *Uber burns its 2026 AI budget in four months on Claude Code.* Forbes. [Link](https://forbes.com)
 * **Jetha, R. (2026, February 19).** *AI writes the code now. What’s left for software engineers?* The San Francisco Standard. [Link](https://sfstandard.com)
 
 
-* **Janakiram, M. S. V. (2026, May 17).** *Uber burns its 2026 AI budget in four months on Claude Code.* Forbes. [Link](https://www.forbes.com/sites/janakirammsv/2026/05/17/uber-burns-its-2026-ai-budget-in-four-months-on-claude-code/)
-* **Jetha, R. (2026, February 19).** *AI writes the code now. What’s left for software engineers?* The San Francisco Standard. [Link](https://sfstandard.com/2026/02/19/ai-writes-code-now-s-left-software-engineers/)
+
 
 
