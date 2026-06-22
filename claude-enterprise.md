@@ -1,4 +1,5 @@
-<img src="Claude.png" width="400px" style="display: block; margin: 20px auto; border-radius: 6px;">
+<img src="Claude.png" width="600px" style="display: block; margin: 20px 0; border-radius: 6px;">
+
 
 
 # The Dual-Edged Sword of Enterprise AI: Hands-On with Claude Code
