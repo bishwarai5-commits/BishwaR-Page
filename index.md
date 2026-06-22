@@ -6,7 +6,7 @@ Welcome! This is my personal space where I publish detailed analyses and hands-o
 
 ## 🤖 Artificial Intelligence & Enterprise
 
-* [The Dual-Edged Sword of Enterprise AI: Hands-On with Claude Code](claude-enterprise)
+* [The Dual-Edged Sword of Enterprise AI: Hands-On with Claude Code](claude-enterprise.md)
 * [AI Governance and Cost Control in Modern Technical Teams](ai-governance) <!-- Placeholder for future article -->
 
 ## 🔒 Cybersecurity & Systems
