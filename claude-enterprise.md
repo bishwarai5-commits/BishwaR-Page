@@ -1,3 +1,5 @@
+<img src="Claude.png" width="400px" style="display: block; margin: 20px auto; border-radius: 6px;">
+
 ![Cover Page](Claude.png)
 
 # The Dual-Edged Sword of Enterprise AI: Hands-On with Claude Code
