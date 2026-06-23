@@ -6,7 +6,7 @@ layout: null
 
 <!-- CENTRAL HEADER -->
 <div align="center" style="margin-bottom: 35px;">
-  <h1 style="margin: 0 0 10px 0; font-size: 34px; font-weight: 800; color: #0369a1; border-bottom: none; letter-spacing: -0.5px;">Welcome to Bishwa's Article Hub</h1>
+  <h1 style="margin: 0 0 10px 0; font-size: 34px; font-weight: 800; color: #0369a1; border-bottom: none; letter-spacing: -0.5px;">Welcome to Bishwa's World</h1>
   <p style="margin: 0; font-size: 16px; font-weight: 400; max-width: 600px; margin: 0 auto; line-height: 1.5; color: #0c4a6e;">Detailed analyses and hands-on case studies concerning emerging technology, workflows, and cybersecurity.</p>
 </div>
 
