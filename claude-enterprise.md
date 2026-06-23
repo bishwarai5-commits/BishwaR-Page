@@ -60,13 +60,9 @@ As of today, AI still lacks the full depth of human empathy, intuition, and cont
 
 ---
 
-
 <div align="center" style="margin-top: 30px;">
-  <a href="./" style="display: inline-block; padding: 12px 24px; font-size: 16px; font-weight: bold; color: #ffffff; background-color: #0369a1; border-radius: 6px; text-decoration: none; box-shadow: 0 4px 12px rgba(3,105,161,0.2);">← Back to Homepage</a>
+  <a href="https://bishwarai5-commits.github.io/BishwaR-Page/" style="display: inline-block; padding: 12px 24px; font-size: 16px; font-weight: bold; color: #ffffff; background-color: #0369a1; border-radius: 6px; text-decoration: none; box-shadow: 0 4px 12px rgba(3,105,161,0.2);">← Back to Homepage</a>
 </div>
 
-
-
----
 
 
