@@ -82,7 +82,24 @@ layout: null
       <b>Jetha, R. (2026, February 19).</b> <i>AI writes the code now. What’s left for software engineers?</i> The San Francisco Standard. <a href="https://sfstandard.com" style="color: #025a87; font-weight: 600; text-decoration: underline;">Open Article</a>
     </li>
   </ul>
+  <!-- ==================================================== --> 
+  <!--              CUSDIS COMMENT SECTION                  --> 
+  <!-- ==================================================== --> 
+  <div style="max-width: 100%; margin: 40px auto 20px auto; padding: 20px; background-color: rgba(255,255,255,0.4); border-radius: 8px; box-shadow: inset 0 1px 3px rgba(0,0,0,0.05);"> 
+    <h3 style="color: #0369a1; font-size: 20px; font-weight: 700; margin-top: 0; margin-bottom: 20px; border-bottom: 2px solid rgba(3,105,161,0.1); padding-bottom: 8px;">💬 Leave your comments here</h3> 
+    
+    <div id="cusdis_thread" 
+      data-host="https://cusdis.com" 
+      data-app-id="28edf075-3a11-48a9-8654-f0b3b3a791fd" 
+      data-page-id="claude-code-enterprise-review" 
+      data-page-url="https://github.io" 
+      data-page-title="The Dual-Edged Sword of Enterprise AI: Hands-On with Claude Code" 
+      data-theme="light"> 
+    </div> 
+  </div> 
 
+  <script async defer src="https://cusdis.com/js/cusdis.es.js"></script> 
+  <!-- ==================================================== --> 
   <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(3,105,161,0), rgba(3,105,161,0.2), rgba(3,105,161,0)); margin-top: 40px; margin-bottom: 30px;">
 
   <!-- BACK TO HOME BUTTON -->
