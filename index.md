@@ -16,7 +16,14 @@ layout: null
 
 <!-- ABOUT THE AUTHOR SECTION -->
 <div style="background-color: rgba(255, 255, 255, 0.6); padding: 25px; border-radius: 12px; margin-bottom: 40px; box-shadow: 0 8px 20px rgba(3,105,161,0.05); border: 1px solid rgba(255,255,255,0.4);">
-  <h2 style="color: #0369a1; font-size: 22px; font-weight: 800; margin-top: 0; margin-bottom: 10px; border-bottom: none;">About the Author</h2>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; flex-wrap: wrap; gap: 10px;">
+    <h2 style="color: #0369a1; font-size: 22px; font-weight: 800; margin: 0; border-bottom: none;">About the Author</h2>
+    <!-- LINKEDIN BUTTON -->
+    <a href="https://www.linkedin.com/in/bishwa-rai-79a4b3383/" target="_blank" style="display: inline-flex; align-items: center; background-color: #0077b5; color: #ffffff; padding: 6px 14px; border-radius: 6px; font-size: 13px; font-weight: 700; text-decoration: none; box-shadow: 0 2px 5px rgba(0,119,181,0.2); transition: background-color 0.2s;">
+      <svg style="width: 14px; height: 14px; fill: currentColor; margin-right: 6px;" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg> Connect on LinkedIn
+    </a>
+  </div>
+  
   <p style="margin: 0 0 15px 0; line-height: 1.6; font-size: 15px; color: #0f172a;">
     Welcome! I am a Business Intelligence professional currently pursuing a <b>Ph.D. in Machine Learning</b>. This hub serves as a repository for my technical insights, hands-on enterprise deployment analyses, and explorations into the future of data systems and cybersecurity.
   </p>
