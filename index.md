@@ -37,6 +37,9 @@ layout: null
       <span style="background-color: #0369a1; color: #ffffff; padding: 3px 8px; border-radius: 4px; font-size: 12px; font-weight: 600;">Dataflows & Pipelines</span>
       <span style="background-color: #0369a1; color: #ffffff; padding: 3px 8px; border-radius: 4px; font-size: 12px; font-weight: 600;">Azure</span>
       <span style="background-color: #0369a1; color: #ffffff; padding: 3px 8px; border-radius: 4px; font-size: 12px; font-weight: 600;">Snowflake</span>
+      <span style="background-color: #0369a1; color: #ffffff; padding: 3px 8px; border-radius: 4px; font-size: 12px; font-weight: 600;">Classical Machine Learning</span>
+      <span style="background-color: #0369a1; color: #ffffff; padding: 3px 8px; border-radius: 4px; font-size: 12px; font-weight: 600;">Tensorflow</span>
+      <span style="background-color: #0369a1; color: #ffffff; padding: 3px 8px; border-radius: 4px; font-size: 12px; font-weight: 600;">Statistics</span>
     </div>
   </div>
 
