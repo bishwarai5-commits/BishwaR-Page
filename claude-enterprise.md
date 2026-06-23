@@ -1,7 +1,8 @@
 ---
 layout: null
 ---
-<div style="background-color: #e0f2fe; background-image: linear-gradient(180deg, #e0f2fe 0%, #bae6fd 100%); color: #0f172a; padding: 45px 30px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; min-height: 100vh; border-radius: 8px; max-width: 800px; margin: 0 auto; line-height: 1.7;">
+<div style="background-color: #e0f2fe; background-image: linear-gradient(180deg, #e0f2fe 0%, #bae6fd 100%); color: #0f172a; padding: 45px 30px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; min-height: 100vh; border-radius: 8px; max-width: 800px; margin: 0 auto; line-height: 1.7;"> 
+
 
   <!-- COVER IMAGE -->
   <div align="center" style="margin-bottom: 40px;">
