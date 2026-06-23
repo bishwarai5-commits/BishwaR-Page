@@ -6,7 +6,7 @@ layout: null
 
 <!-- CENTRAL HEADER -->
 <div align="center" style="margin-bottom: 35px;">
-  <h1 style="margin: 0 0 10px 0; font-size: 34px; font-weight: 800; color: #0369a1; border-bottom: none; letter-spacing: -0.5px;">Bishwa's Article Hub</h1>
+  <h1 style="margin: 0 0 10px 0; font-size: 34px; font-weight: 800; color: #0369a1; border-bottom: none; letter-spacing: -0.5px;">Welcome to Bishwa's Article Hub</h1>
   <p style="margin: 0; font-size: 16px; font-weight: 400; max-width: 600px; margin: 0 auto; line-height: 1.5; color: #0c4a6e;">Detailed analyses and hands-on case studies concerning emerging technology, workflows, and cybersecurity.</p>
 </div>
 
@@ -26,7 +26,7 @@ layout: null
   </div>
   
   <p style="margin: 0 0 15px 0; line-height: 1.6; font-size: 15px; color: #0f172a;">
-    Welcome! I am a Business Intelligence professional currently pursuing a <b>Ph.D. in Machine Learning</b>. This hub serves as a repository for my technical insights, hands-on enterprise deployment analyses, and explorations into the future of data systems and cybersecurity.
+     I am a Business Intelligence professional currently pursuing a <b>Ph.D. in Machine Learning</b>. This hub serves as a repository for my technical insights, hands-on enterprise deployment analyses, and explorations into the future of data systems and cybersecurity.
   </p>
   
   <div style="margin-bottom: 15px;">
