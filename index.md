@@ -78,7 +78,7 @@ layout: null
   </li>
 
    <li style="margin-bottom: 14px; font-size: 16px;">
-    📝 <a href="AI, Profit Maximization and IT Professionals.html" style="color: #025a87; font-weight: 700; text-decoration: none; border-bottom: 2px solid #025a87; padding-bottom: 2px;">AI, Profit Maximization and IT Professionals</a>
+    📝 <a href="AI Profit Maximization.html" style="color: #025a87; font-weight: 700; text-decoration: none; border-bottom: 2px solid #025a87; padding-bottom: 2px;">AI, Profit Maximization and IT Professionals</a>
   </li>
 
   
