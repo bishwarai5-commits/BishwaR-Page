@@ -76,9 +76,12 @@ layout: null
   <li style="margin-bottom: 14px; font-size: 16px;">
     📝 <a href="claude-enterprise.html" style="color: #025a87; font-weight: 700; text-decoration: none; border-bottom: 2px solid #025a87; padding-bottom: 2px;">The Dual-Edged Sword of Enterprise AI: Hands-On with Claude Code</a>
   </li>
-  <li style="margin-bottom: 14px; font-size: 16px; color: #64748b; font-style: italic;">
-    ⏳ AI Governance and Cost Control in Modern Technical Teams (Coming Soon)
+
+   <li style="margin-bottom: 14px; font-size: 16px;">
+    📝 <a href="AI, Profit Maximization and IT Professionals.html" style="color: #025a87; font-weight: 700; text-decoration: none; border-bottom: 2px solid #025a87; padding-bottom: 2px;">AI, Profit Maximization and IT Professionals</a>
   </li>
+
+  
 </ul>
 
 <h3 style="color: #0369a1; font-size: 21px; margin-bottom: 15px; font-weight: 700;">🔒 Cybersecurity & Systems</h3>
